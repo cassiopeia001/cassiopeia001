@@ -23,6 +23,20 @@
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
   ![Accessibility](https://img.shields.io/badge/Accessibility-1B1F23?style=flat&logo=w3c&logoColor=white)
+
+## 🚀 Projects
+
+- **[Portfolio](https://cassiopeia001.github.io/my-portfolio/)**
+  My portfolio project demosntrating my skills and most prominent projects.
+  
+- **[Rest countries API](https://cassiopeia001.github.io/rest-countries-api/)**  
+  A responsive web app built with React and REST API integration. Allows users to search, filter, and explore country data. 
+
+- **[Multi step form](https://cassiopeia001.github.io/multi-step-form/)**  
+  A multi-page form with validation, custom error messages, and keyboard navigation.
+  
+- **[TODO App](https://cassiopeia001.github.io/todo-app/)**  
+  A classic Todo application with task creation, filtering, and drag-and-drop reordering.
 <!--
 
 
