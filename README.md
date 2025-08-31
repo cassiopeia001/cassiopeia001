@@ -26,28 +26,16 @@
 
 ## 🚀 Projects
 
-- **[Portfolio](https://cassiopeia001.github.io/my-portfolio/)**
-  My portfolio project demosntrating my skills and most prominent projects.
   
 - **[Rest countries API](https://cassiopeia001.github.io/rest-countries-api/)**  
   A responsive web app built with React and REST API integration. Allows users to search, filter, and explore country data. 
 
 - **[Multi step form](https://cassiopeia001.github.io/multi-step-form/)**  
   A multi-page form with validation, custom error messages, and keyboard navigation.
-  
+
+- **[Portfolio](https://cassiopeia001.github.io/my-portfolio/)**
+My portfolio project demosntrating my skills and most prominent projects.
+
 - **[TODO App](https://cassiopeia001.github.io/todo-app/)**  
   A classic Todo application with task creation, filtering, and drag-and-drop reordering.
-<!--
 
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
